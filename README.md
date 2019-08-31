@@ -12,4 +12,4 @@ Havi Ellers (hellers@g.hmc.edu), Harvey Mudd College
 
 Xiaomin Li (xiaomin3@illinois.edu), University of Illinois at Urbana-Champaign
 
-(More details please see "LieAlgebraFinalReport.pdf"
+(More details please see _"LieAlgebraFinalReport.pdf"_)
