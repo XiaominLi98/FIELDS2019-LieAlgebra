@@ -1,12 +1,12 @@
-## 2019 FIELDS Undergraduate Summer Research Program.
+# 2019 FIELDS Undergraduate Summer Research Program.
 
-## Project 2: "Representation theory of Lie algebras and beyond"
+# Project 2: "Representation theory of Lie algebras and beyond"
 
-# Advisor: 
+## Advisor: 
 
 Dr. Hadi Salmasian, University of Ottawa
 
-# Group Members: 
+## Group Members: 
 
 Havi Ellers (hellers@g.hmc.edu), Harvey Mudd College
 
